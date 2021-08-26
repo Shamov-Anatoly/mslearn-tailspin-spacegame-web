@@ -6,7 +6,12 @@
 #ms.lasthandoff: 07/03/2021
 #ms.locfileid: 113282388
 trigger:
+
 - '*'
+
+- main
+
+
 pool:
   vmImage: ubuntu-20.04
   demands:
