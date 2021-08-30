@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Shaman-development/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/Shamov-Anatoly.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/Shaman-development/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=11&branchName=main)
 
 # Contributing
 
